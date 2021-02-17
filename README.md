@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This repository is separated from the Ark Services(https://github.com/digitalutsc/ark-services), and it will be Ark ID lookup for upcoming traffic and the landing page. With this, the back-end operations interface will be placed behind the VPN for security measures. 
+This repository is separated from the Ark Services(https://github.com/digitalutsc/ark-services), and it will be Ark ID lookup for upcoming traffic and the landing page. With this, the back-end operations interface will be placed behind the VPN.
 
 ## Installation
 
