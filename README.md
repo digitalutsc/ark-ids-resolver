@@ -15,10 +15,10 @@ namespace Ark\Resolver\Library;
 
 class MysqlArkConf
 {
-    static public $mysql_host = 'localhost';
-    static public $mysql_user = 'root';
+    static public $mysql_host = '';
+    static public $mysql_user = '';
     static public $mysql_passwd = '';
-    static public $mysql_dbname = 'ARK_CORE'; // please enter the name of database which you have just created.
+    static public $mysql_dbname = '';
     static public $mysql_port = 3306;
 }
 
